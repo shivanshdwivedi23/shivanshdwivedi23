@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shivansh</h1>
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 - 🔭 I’m currently working on **Android development**
 
 - 🌱 I’m currently learning **Networking,Multithreading,MVVM**
@@ -10,7 +11,7 @@
 - ⚡ Fun fact **The computer was born to solve problems that did not exist before.**
 
 <h3 align="left">Connect with me:</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+<!-- <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif"> -->
 <p align="left">
 <a href="https://linkedin.com/in/shivansh-dwivedi-a966581b7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shivansh-dwivedi-a966581b7" height="30" width="40" /></a>
 </p>
